@@ -1,0 +1,4 @@
+interface:
+  display_name: "Mobile Release Preflight"
+  short_description: "Evidence-based iOS and Android release checks"
+  default_prompt: "Use $mobile-release-preflight to inspect this mobile release candidate and report PASS, WARN, or BLOCK with evidence. Do not build or publish it."
